@@ -1,0 +1,68 @@
+#t1{margin:0 auto;
+    min-width:1200px;
+    width:1266px;
+    position:relative;}/*首页最小宽度，图片自己宽度*/
+.d2{width:1200px;
+    height:95px;
+    margin:0 auto 50px;}
+.d3{width:750px;
+    height:95px;
+    border:0 solid red;
+    float:left;
+    display:block;}
+.d3 .f1{width:246px;height:93px;
+    float:left;
+    background-color:red;
+    margin:auto 6px auto 0px;
+    text-align:center;
+    line-height:93px;}
+.d3 .f2{
+    width:246px;
+    height:93px;
+    float:left;
+    background-color:blue;
+    margin:auto 6px auto 0px;
+    text-align:center;
+    line-height:93px;}
+.d3 .f3{width:246px;
+    height:93px;
+    float:left;
+    background-color:green;
+    text-align:center;
+    line-height:93px;}
+.d4{width:420px;
+    height:95px;
+    border:1px solid red;
+    display:block;
+    float:right;
+    margin-left:28px;}
+.d4 .f4{width:140px;height:95px;float:left;background-color:blue;text-align:center;line-height:93px;}
+.d4 .f5{width:140px;height:95px;float:left;background-color:blue;text-align:center;line-height:93px;}
+.d4 .f6{width:140px;height:95px;float:left;background-color:blue;text-align:center;line-height:93px;}
+#d5{width:1200px;height:635px;margin:0 auto;}
+.t2{width:750px;height:635px;float:left;}
+.t3{width:750px;height:35px;margin-bottom:10px;float:left;}
+.t4{width:113px;height:75px;list-style:none;float:left;}
+.t4 span{width:72px;height:35px;line-height:35px;float:left;}
+.t5{width:38px;height:28px;float:right;font-size:18px;}
+.t5 a{width:24px;height:16px;line-height:16px;}
+.t5 span{width:10px;height:10px;line-height:10px;float:right;border:1px solid #000;}
+.t8{width:750px;height:634px;}/*定义新闻以及以下的框的空间，边框不用写*/
+.t8 ul li{width:100%;height:38px;float:left;border-collapse:collapse;list-style:none;line-height:38px;text-align:center;
+box-sizing:border-box;}
+/*list-style:none设置ul》li列表项标识消失     box-sizing:border-box用来设置元素内容+边框一起计算的属性*/
+.t8 ul .t9{width:25%;border:1px solid blue;}/*定义边框*/
+.t8 ul .t10{width:25%;border-left:0px;border:1px solid blue;}
+.t8 ul .t11{width:25%;border-left:0px;border:1px solid blue;}
+.t8 ul .t12{width:25%;border-left:0px;border:1px solid blue;}
+.t8 .table1{border:0px solid #eee;}
+.table2{width:740px;height:198px;padding:15px 40px 15px 20px;margin:25px 5px 15px 5px;box-sizing:border-box;float:left;border:1px solid #eee;}
+.table2 h3{width:678px;height:24px;font-size:24px;text-align:left;line-height:24px;color:#00c0ff;}
+.table3 img{width:200px;height:120px;float:left;font-size:14px;}
+.table3 p{font-size:14px;min-width:88px;color: #999;line-height:22px;}
+.table3 span{font-size:14px;min-width:88px;color: #999;line-height:22px;float:left;}
+.table5{width:750px;height:45px;}
+.table5 i{width:10px;height:45px;float:left;line-height:45px;}
+.table5 p{width:516px;height:45px;float:left;line-height:45px;}
+.table5 span{width:62px;height:45px;line-height:45px;float:right;font-size:14px;}
+#d6{width:1200px;height:780px;}
