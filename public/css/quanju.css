@@ -1,0 +1,8 @@
+/*全局背景颜色*/
+body{
+    background-color:#1a1b1f;
+    /*min-width:1200px;*/
+    margin:0 auto;
+}
+a{text-decoration:none;}
+*{margin:0;padding:0}
